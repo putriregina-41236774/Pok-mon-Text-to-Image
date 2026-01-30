@@ -35,7 +35,8 @@ Pelatihan (Training): Model dilatih selama 20 epoch dengan pengoptimal Adam (lea
 Loss Function: Menggunakan sparse_categorical_crossentropy untuk menghitung tingkat kesalahan prediksi model. 
 
 3. Hasil Generasi
-   <img width="328" height="350" alt="image" src="https://github.com/user-attachments/assets/a38e57f8-40c0-4324-b924-7e4d8a7739c9" />
-
 Berdasarkan pengujian akhir dengan prompt "a pink cute pokemon", model berhasil membangkitkan representasi visual awal. Karena pelatihan dilakukan dalam skala kecil dan cepat, hasil gambar yang muncul saat ini masih berupa noise visual/abstrak sebagai bukti bahwa alur kerja model sudah berjalan. 
+
+<img width="328" height="350" alt="image" src="https://github.com/user-attachments/assets/4275bef9-34ec-419e-83d6-c1be9854723c" />
+
 
